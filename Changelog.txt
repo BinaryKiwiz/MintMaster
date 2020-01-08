@@ -1,0 +1,8 @@
+Changelog:
+Here is where any changes I make to the game are recorded. Bug fixes, gameplay additions, and new features will be recorded here.
+Major Changes.Minor Changes.Bug Fixes
+1/7/2020:
+  0.1.0:
+    bruhcremental Created
+    Changelog started
+    ReadMe created and finished
