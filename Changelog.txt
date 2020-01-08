@@ -6,3 +6,7 @@ Major Changes.Minor Changes.Bug Fixes
     bruhcremental Created
     Changelog started
     ReadMe created and finished
+    index.html created
+    added html markers and doctype to index.html
+    stylesheet.css created
+    javascript.js created
