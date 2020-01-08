@@ -10,3 +10,4 @@ Major Changes.Minor Changes.Bug Fixes
     added html markers and doctype to index.html
     stylesheet.css created
     javascript.js created
+    assigned master branch as root and the website can now be accessed at https://binarykiwiz.github.io/bruhcremental/
