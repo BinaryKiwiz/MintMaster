@@ -11,3 +11,9 @@ Major Changes.Minor Changes.Bug Fixes
     stylesheet.css created
     javascript.js created
     assigned master branch as root and the website can now be accessed at https://binarykiwiz.github.io/bruhcremental/
+    added bruhcremental to my profile page and put a link that the website can be accessed by
+    bound the stylesheet and the javascript to the html main code
+    titled the page of the website, Bruhcremental
+    bound the icon of the tab to a file called icon.png. The icon can be created at any time and renamed to icon.png
+    created body and started work on the title
+    colored the body gray, but nothing will be colored yet because there is no text or elements
