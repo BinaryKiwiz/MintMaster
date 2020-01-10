@@ -1,3 +1,26 @@
 .body{
-  background: rgb(100, 100, 100);a
+  background: rgb(225, 255, 225);
+  font-family:"Noto Sans";
+}
+.title{
+  font-family: "Noto Sans";
+  font-size: 25px;
+  border: 3px solid rgb(150, 150, 150);
+  border-radius: 100px;
+  align-self: center;
+  #width: 200px;
+  text-align: center;
+  color: rgb(0, 25, 50);
+}
+.ManufactureMint{
+  width: 100px;
+  height: 100px;
+}
+.ManufactureMintButton{
+  text-align: center;
+  align-self: center;
+  background-color: rgb(150, 150, 150);
+  border: 5px rgb(200, 200, 200);
+  border-radius: 5px;
+  color: white;
 }
