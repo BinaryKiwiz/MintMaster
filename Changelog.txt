@@ -1,19 +1,32 @@
 Changelog:
 Here is where any changes I make to the game are recorded. Bug fixes, gameplay additions, and new features will be recorded here.
 Major Changes.Minor Changes.Bug Fixes
-1/7/2020:
-  0.1.0:
-    bruhcremental Created
-    Changelog started
-    ReadMe created and finished
-    index.html created
-    added html markers and doctype to index.html
-    stylesheet.css created
-    javascript.js created
-    assigned master branch as root and the website can now be accessed at https://binarykiwiz.github.io/bruhcremental/
-    added bruhcremental to my profile page and put a link that the website can be accessed by
-    bound the stylesheet and the javascript to the html main code
-    titled the page of the website, Bruhcremental
-    bound the icon of the tab to a file called icon.png. The icon can be created at any time and renamed to icon.png
-    created body and started work on the title
-    colored the body gray, but nothing will be colored yet because there is no text or elements
+0.1.0 Released 1/7/2020:
+  bruhcremental Created
+  Changelog started
+  ReadMe created and finished
+  index.html created
+  added html markers and doctype to index.html
+  stylesheet.css created
+  javascript.js created
+  assigned master branch as root and the website can now be accessed at https://binarykiwiz.github.io/bruhcremental/
+  added bruhcremental to my profile page and put a link that the website can be accessed by
+  bound the stylesheet and the javascript to the html main code
+  titled the page of the website, Bruhcremental
+  bound the icon of the tab to a file called icon.png. The icon can be created at any time and renamed to icon.png
+  created body and started work on the title
+  colored the body gray, but nothing will be colored yet because there is no text or elements
+  
+0.2.0 Released 1.9.2020:
+  Renamed to Mint Master
+  Created title
+  Created Mints and Money Counter
+  Created Manufacture Mints Button
+  Wrote Javascript and defined variables:
+    Mints
+    MintsPerClick
+    Money
+    MoneyPerMint
+  Also added function that activates when the Manufacture Mints Button
+  Each time the button is clicked your Mints go up by 1 
+  
