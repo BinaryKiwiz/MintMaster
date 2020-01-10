@@ -1,3 +1,5 @@
+Play: https://binarykiwiz.github.io/MintMaster/
+Profile Page with Other Games and Information: https://binarykiwiz.github.io/
 MINT
 thank to Liam for idea of name for the game
 How name got create:
