@@ -14,7 +14,6 @@
 }
 .ManufactureMint{
   width: 100px;
-  height: 100px;
 }
 .ManufactureMintButton{
   text-align: center;
@@ -23,4 +22,15 @@
   border: 5px rgb(200, 200, 200);
   border-radius: 5px;
   color: white;
+}
+.SellMints{
+  width: 100px;
+}
+.SellMintsButton{
+  background-color: rgb(150, 150, 150);
+  border: 5px rgb(200, 200, 200);
+  border-radius: 5px;
+  color: white;
+  text-align: center;
+  align-self: center;
 }
