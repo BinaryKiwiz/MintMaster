@@ -29,4 +29,4 @@ Major Changes.Minor Changes.Bug Fixes
     MoneyPerMint
   Also added function that activates when the Manufacture Mints Button
   Each time the button is clicked your Mints go up by 1 
-  
+  Added Sell Mints button where you can sell all your current Mints for Money
