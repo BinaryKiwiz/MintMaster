@@ -34,3 +34,29 @@
   text-align: center;
   align-self: center;
 }
+.Save{
+}
+.SaveButton{
+  background-color: rgb(150, 150, 150);
+  border: 5px rgb(200, 200, 200);
+  border-radius: 5px;
+  color:white;
+  text-align: center;
+  align-self: left;
+  position: absolute;
+  right: 25px;
+  top: 20px;
+}
+.ImportSave{
+}
+.ImportSaveButton{
+  background-color: rgb(150, 150, 150);
+  border: 5px rgb(200, 200, 200);
+  border-radius: 5px;
+  color:white;
+  text-align: center;
+  align-self: left;
+  position: absolute;
+  left: 25px;
+  top: 20px;
+}
