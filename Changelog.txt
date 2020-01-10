@@ -30,3 +30,7 @@ Major Changes.Minor Changes.Bug Fixes
   Also added function that activates when the Manufacture Mints Button
   Each time the button is clicked your Mints go up by 1 
   Added Sell Mints button where you can sell all your current Mints for Money
+  Added Save button
+  Added Import Save button
+  Save and Import save uses localstorage so it can be accessed anytime you use the same computer
+  Saving will keep your money and mints and you can import anytime and you can save the game any time
