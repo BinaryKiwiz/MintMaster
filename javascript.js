@@ -9,8 +9,8 @@ var CostMV = 25;
 var MPSMV = 1;
 var Clicks = 0;
 var InfoBoxInfo = "Bruh";
-var x = "0"
-var InfoBoxMoney = 0
+var x = "0";
+var InfoBoxMoney = 0;
 
 //Game Loading and Screen Refresh
 document.getElementById("Mints").innerHTML = Mints;
@@ -50,12 +50,12 @@ function ManufactureMint(){
 
 function SellMints(){
   x = Math.round((Mints * MoneyPerMint) * 100)/100;
-  InfoBoxMoney = x
+  InfoBoxMoney = x;
   InfoBoxInfo = "You Sold all of your Mints for $" + InfoBoxMoney;
   Money = Money + Mints * MoneyPerMint;
   Money = Math.round(Money*100) / 100;
-  Mints = 0;
-  RefreshScreen()
+  Mints = 0;;
+  RefreshScreen();
 }
 
 function Save(){
@@ -67,6 +67,6 @@ function Save(){
 function BuyManditoryVolunteer(){
   if (Money >= 25){
     Money = Money - 25;
-    RefreshScreen()
+    RefreshScreen();
   }
 }
