@@ -2,6 +2,25 @@
   background: rgb(225, 255, 225);
   font-family:"Noto Sans";
 }
+.InfoBox{
+  position: absolute;
+  top: 50px;
+  right: 10px;
+}
+.InfoBoxInfo{
+  position: absolute;
+  left: 10px;
+  top: 25px
+}
+.InfoBoxBox{
+  border: 2px solid rgb(150, 150, 150);
+  border-radius: 15px;
+  width: 250px;
+  height: 100px;
+}
+.InfoBoxTitle{
+  font-size: 15px;
+}
 .title{
   font-family: "Noto Sans";
   font-size: 25px;
@@ -42,10 +61,13 @@
   border-radius: 5px;
   color:white;
   text-align: center;
-  align-self: left;
+  align-self: center;
   position: absolute;
   right: 25px;
   top: 20px;
+  #position: relative;
+  #left: 1210px;
+  #bottom: 146px;
 }
 .ImportSave{
 }
@@ -57,6 +79,33 @@
   text-align: center;
   align-self: left;
   position: absolute;
-  left: 25px;
   top: 20px;
+  left: 25px;
+  #position: relative;
+  #left: 10px;
+  #bottom: 164px;
+}
+.Manufacturing{
+  position: absolute;
+  top: 50px;
+  left: 200px;
+  #position: relative;
+  #left: 200px;
+  #bottom: 155px;
+}
+.ManufacturingTitle{
+  font-size: 20px;
+}
+.ManditoryVolunteer{
+  color: white;
+  background-color: rgb(150, 150, 150);
+  border: 5px rgb(200, 200, 200);
+  border-radius: 5px;
+  color:white;
+  text-align: center;
+  align-self: center;
+  width: 139px;
+}
+.ManufacturingDesc{
+  font-size: 13px;
 }
