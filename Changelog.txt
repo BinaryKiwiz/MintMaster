@@ -1,7 +1,7 @@
 Changelog:
 Here is where any changes I make to the game are recorded. Bug fixes, gameplay additions, and new features will be recorded here.
 Major Changes.Minor Changes.Bug Fixes
-0.1.0 Released 1/7/2020:
+0.1.0 Released 1.7.2020:
   bruhcremental Created
   Changelog started
   ReadMe created and finished
@@ -34,3 +34,16 @@ Major Changes.Minor Changes.Bug Fixes
   Added Import Save button
   Save and Import save uses localstorage so it can be accessed anytime you use the same computer
   Saving will keep your money and mints and you can import anytime and you can save the game any time
+
+0.3.1 Released 1.11.2020:
+  Added Manufacturing Tab
+  This is where you buy/hire things to manufacture mints automatically
+  Added Manditory Volunteer Button in the Manufacturing Tab
+  Manditory Volunteers cost $25 and they make 1 mint per second
+  They also work 24/7 and you dont have to pay them
+  Button is just there it doesn't have a function yet
+  Added InfoBox
+  When you press a button, only sell your mints and manufacture mint atm it will show a message with what you did and how much you sold   your mints for
+  Fixed some bugs including the save wasn't saving correctly and the import save didn't update the screen when you import your save
+  Sometimes the game would just die and you couldn't save anything. Fixed
+  Still trying to make the buttons at the same place on different screens.
