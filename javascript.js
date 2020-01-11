@@ -50,7 +50,7 @@ function ManufactureMint(){
 
 function SellMints(){
   x = math.round((Mints * MoneyPerMint) * 100)/100;
-  InfoBoxMoney = x.toString();
+  InfoBoxMoney = x
   InfoBoxInfo = "You Sold all of your Mints for $" + InfoBoxMoney;
   Money = Money + Mints * MoneyPerMint;
   Money = Math.round(Money*100) / 100;
