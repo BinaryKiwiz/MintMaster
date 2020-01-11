@@ -47,3 +47,6 @@ Major Changes.Minor Changes.Bug Fixes
   Fixed some bugs including the save wasn't saving correctly and the import save didn't update the screen when you import your save
   Sometimes the game would just die and you couldn't save anything. Fixed
   Still trying to make the buttons at the same place on different screens.
+  Fixed bugs with semicolons
+  Fixed bugs with str and int parsing
+  Fixed bugs with rounding errors
