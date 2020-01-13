@@ -50,3 +50,12 @@ Major Changes.Minor Changes.Bug Fixes
   Fixed bugs with semicolons
   Fixed bugs with str and int parsing
   Fixed bugs with rounding errors
+
+0.4.1 Released 1.13.2020:
+  Made a MPs command that adds your mps to mints every second
+  Made research tab
+  added efficient manufacturing to research tab 50 mints +1 mints per click
+  made more infobox commands. now says game saved when you save
+  says a message when you buy a manditory volunteer
+  mandatory volunteer price lowered to 5 dollars
+  
