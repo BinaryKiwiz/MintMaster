@@ -10,7 +10,8 @@
 .InfoBoxInfo{
   position: absolute;
   left: 10px;
-  top: 25px
+  top: 25px;
+  font-size: 14px;
 }
 .InfoBoxBox{
   border: 2px solid rgb(150, 150, 150);
@@ -96,7 +97,7 @@
 .ManufacturingTitle{
   font-size: 20px;
 }
-.ManditoryVolunteer{
+.MandatoryVolunteer{
   color: white;
   background-color: rgb(150, 150, 150);
   border: 5px rgb(200, 200, 200);
@@ -108,4 +109,22 @@
 }
 .ManufacturingDesc{
   font-size: 13px;
+}
+.ResearchTitle{
+  font-size: 20px;
+}
+.Research{
+  position: absolute;
+  top: 50px;
+  left: 450px;
+}
+.ResearchDescription{
+  font-size: 13px
+}
+.EfficientManufacturingResearchButton{
+  width: 150px;
+  border: 5px solid rgb(150, 150, 150);
+  border-radius: 5px;
+  color: white;
+  background: rgb(150, 150, 150)
 }
